@@ -95,10 +95,7 @@
   <a href="mailto:abdulraoufessam1@email.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/abdulraouf-essam">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/abdulraouf-essam">
+  <a href="https://www.linkedin.com/in/abdulraouf-essam-419819226/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://www.facebook.com/abdulrouf.essam.7">
