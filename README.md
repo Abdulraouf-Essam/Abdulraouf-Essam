@@ -78,18 +78,6 @@
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdulraouf-essam&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulraouf-essam&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulraouf-essam&theme=tokyonight"/>
-</p>
-
----
-
 ### 📫 Contact Me
 <p align="center">
   <a href="mailto:abdulraoufessam1@email.com">
